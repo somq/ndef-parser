@@ -3,7 +3,7 @@
 ##  This package has been deprecated.
 ### Use [nfccard-parser](https://github.com/somq/nfccard-parser) instead.
 
-
+-----
 
 > Feed me with a raw nfc card output and I will drop you tjhe ndef message if I can find one.
 
