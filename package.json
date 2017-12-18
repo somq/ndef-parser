@@ -42,7 +42,7 @@
     "@taptrack/ndef": "^1.0.3"
   },
   "deprecated": false,
-  "description": "Feed me with a raw nfc card output and I will drop you tjhe ndef message if I can find one.",
+  "description": "This package has been deprecated. Use nfccard-parser instead.",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0"
