@@ -1,7 +1,7 @@
 # ndef-parser
 
 ##  This package has been deprecated.
-### Use [nfccard-parser](https://github.com/somq/nfccard-parser) instead.
+### Use [nfccard-tool](https://github.com/somq/nfccard-tool) instead.
 
 -----
 
